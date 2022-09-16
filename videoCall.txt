@@ -1,7 +1,7 @@
 videoCall features released.
 bug fixed by jawahar
-<<<<<<< HEAD
+
 current release new  code branch3
-=======
+
 bug2 fixed by jawahar
->>>>>>> branch2
+
